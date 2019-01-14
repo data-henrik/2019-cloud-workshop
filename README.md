@@ -15,6 +15,8 @@ Start the [GitPitch-based presentation written in Markdown](PITCHME.md) by click
   and enable shell autocompletion: https://cloud.ibm.com/docs/cli/reference/ibmcloud/enable_cli_autocompletion.html
 
 ### Learning
+* Get started: https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html#whatis
+* Developer journey into IBM Cloud: https://cloud.ibm.com/docs/overview/dev-journey.html#dev-journey
 * Cognitive Class: https://cognitiveclass.ai/
   Learning modules (cloud technologies, programming languages, data science, ...) with the option to earn open badges. Also, there are some promotions for IBM Cloud credits.
 
