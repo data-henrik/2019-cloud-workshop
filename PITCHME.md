@@ -14,7 +14,7 @@ Dr. Henrik Loeser
 ## Wikipedia:
 #### Cloud computing layers
 ![](https://upload.wikimedia.org/wikipedia/commons/3/3c/Cloud_computing_layers.png)
----?image=assets/images/cloud-background.jpg&size=auto 110%
+---
 <br>
 ## IBM Cloud 
 * New URI: https://cloud.ibm.com
@@ -57,3 +57,10 @@ Dr. Henrik Loeser
 * Account: Resource groups
 * Account / services: Security groups
 * Security Advisor and security services
+---
+<br>
+## IBM Cloud
+### CLI / Command Line Interface
+* Shell commands
+* Use in toolchains
+* Extend with plugins

@@ -11,6 +11,8 @@ Start the [GitPitch-based presentation written in Markdown](PITCHME.md) by click
 * Solution tutorials: https://cloud.ibm.com/docs/tutorials/index.html
 * Architecture Center: https://ibm.com/cloud/garage/architectures
 * Cloud deployment models, developer center: https://developer.ibm.com/depmodels/cloud/
+* Install IBM Cloud CLI: https://cloud.ibm.com/docs/cli/reference/ibmcloud/download_cli.html#install_use
+  and enable shell autocompletion: https://cloud.ibm.com/docs/cli/reference/ibmcloud/enable_cli_autocompletion.html
 
 ### Learning
 * Cognitive Class: https://cognitiveclass.ai/
