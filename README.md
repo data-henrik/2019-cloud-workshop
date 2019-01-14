@@ -22,7 +22,7 @@ Start the [GitPitch-based presentation written in Markdown](PITCHME.md) by click
 
 ### Tutorials
 Here are some tutorials to choose from:
-
+* [IBM Cloud Starter Kits](https://cloud.ibm.com/catalog/?category=starterkits)
 * [Build a database-driven chatbot](https://cloud.ibm.com/docs/tutorials/slack-chatbot-database-watson.html)
 * [Apply end to end security to a cloud application](https://cloud.ibm.com/docs/tutorials/cloud-e2e-security.html)
 * [Serverless web application and API](https://cloud.ibm.com/docs/tutorials/serverless-api-webapp.html)
